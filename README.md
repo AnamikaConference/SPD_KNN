@@ -1,9 +1,6 @@
 # Raga Detection Using Machine Learning
 This repository contains code for an end to end model for raga and tonic identification on audio samples
 
-Note: This repository currently only contains inference code, the training code and lots of experimental code can be accessed here: https://github.com/VishwaasHegde/E2ERaga
-However it is not well maintained.
-
 # Getting Started
 Requires `python==3.6.9`
 
